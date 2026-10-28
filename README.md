@@ -24,7 +24,7 @@ DirectX 12 eller Vulkan (NVIDIA, AMD eller Intel).
    sikkerhet**, bla ned og trykk **Åpne likevel**.
 3. Første gang lastes bibliotekene ned (noen minutter).
 
-Krav: Mac med Apple Silicon (M1 eller nyere) og macOS 13 eller nyere.
+Krav: Mac med Apple Silicon (M1 eller nyere) og macOS 15 (Sequoia) eller nyere.
 
 ## Oppdatere
 
